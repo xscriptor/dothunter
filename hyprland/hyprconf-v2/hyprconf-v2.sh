@@ -53,8 +53,8 @@ printf " \n \n"
 ###------ Startup ------###
 
 # finding the presend directory and log file
-# dir="$(dirname "$(realpath "$0")")"
-dir=`pwd`
+# Use the script directory to keep relative paths stable.
+dir="$(dirname "$(realpath "$0")")"
 # log directory
 log_dir="$dir/Logs"
 log="$dir/Logs/hyprconf-v2.log"
@@ -332,7 +332,7 @@ fi
 
 theme="$(cat "$themeFile")"
 
-"$HOME/.config/config/hypr/scripts/Wallpaper.sh" &> /dev/null
+"$HOME/.config/hypr/scripts/Wallpaper.sh" &> /dev/null
 
 # Function to safely symlink
 safe_link() {
@@ -421,7 +421,7 @@ if [[ -n "$kvTheme" && -n "$vscodeTheme" ]]; then
 fi
 
 "$HOME/.config/hypr/scripts/wallcache.sh" &> /dev/null
-"$HOME/.config/config/hypr/scripts/Refresh.sh" &> /dev/null
+"$HOME/.config/hypr/scripts/Refresh.sh" &> /dev/null
 
 #############################################
 # setting lock screen
