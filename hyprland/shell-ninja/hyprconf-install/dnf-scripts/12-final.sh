@@ -63,7 +63,6 @@ checkup=(
     pyprland
     curl
     # dunst
-    fastfetch
     ffmpeg-free
     git
     grim

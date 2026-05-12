@@ -22,6 +22,7 @@ printf "${orange}=>${end} Starting the script...\n" && sleep 2
 packages=(
     git
     gum
+    curl
     unzip
     wget
 )
@@ -116,9 +117,28 @@ curl -L https://github.com/xscriptor/dothunter/archive/refs/heads/main.zip -o hy
 
 if [[ -f "$HOME/hyprconf-install.zip" ]]; then
     mkdir hyprconf-install &> /dev/null
-    unzip hyprconf-install.zip 'dothunter-main/hyprland/shell-ninja/hyprconf-install/*' -d hyprconf-install &> /dev/null
+
+    extract_paths=(
+        "dothunter-main/hyprland/hyprconf-install/*"
+        "dothunter-main/hyprland/shell-ninja/hyprconf-install/*"
+    )
+
+    extracted_root=""
+    for pattern in "${extract_paths[@]}"; do
+        if unzip -qq hyprconf-install.zip "$pattern" -d hyprconf-install 2>/dev/null; then
+            extracted_root="${pattern%/*}"
+            break
+        fi
+    done
+
+    if [[ -z "$extracted_root" ]]; then
+        printf "${red}>< Could not locate hyprconf-install in the archive.${end}\n"
+        rm "$HOME/hyprconf-install.zip"
+        exit 1
+    fi
+
     cd hyprconf-install &> /dev/null
-    mv dothunter-main/hyprland/shell-ninja/hyprconf-install/* . && rmdir -p dothunter-main/hyprland/shell-ninja/hyprconf-install &> /dev/null
+    mv "$extracted_root"/* . && rmdir -p "$extracted_root" &> /dev/null
     rm "$HOME/hyprconf-install.zip"
 fi
 

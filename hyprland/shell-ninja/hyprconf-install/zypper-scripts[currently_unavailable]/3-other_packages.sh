@@ -56,7 +56,6 @@ touch "$log"
 hypr_package=( 
   curl
   ffmpeg
-  fastfetch
   git
   gnome-disk-utility
   go1.23

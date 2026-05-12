@@ -1,0 +1,43 @@
+[ ERROR ] - Sorry, could not install libva-nvidia-driver-git!\n
+[1;32m=>[1;0m Installing linux-headers...
+[1;36m::[1;0m linux-headers was installed successfully!
+
+[1;32m=>[1;0m Installing nvidia-dkms...
+[1;36m::[1;0m nvidia-dkms was installed successfully!
+
+[1;32m=>[1;0m Installing nvidia-settings...
+[1;36m::[1;0m nvidia-settings was installed successfully!
+
+[1;32m=>[1;0m Installing nvidia-utils...
+[1;36m::[1;0m nvidia-utils was installed successfully!
+
+[1;32m=>[1;0m Installing libva...
+[1;36m::[1;0m libva was installed successfully!
+
+[1;32m=>[1;0m Installing libva-nvidia-driver-git...
+[1;31m>< Ohh sheet! an error..[1;0m
+   libva-nvidia-driver-git failed to install. Maybe therer is an issue...
+[1;33m!![1;0m Nvidia modules already included in /etc/mkinitcpio.conf
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+==> Using default configuration file: '/etc/mkinitcpio.conf'
+  -> -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
+==> Starting build: '7.0.5-arch1-1'
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [microcode]
+  -> Running build hook: [modconf]
+  -> Running build hook: [kms]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [keymap]
+  -> Running build hook: [consolefont]
+  -> Running build hook: [block]
+  -> Running build hook: [filesystems]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: '/boot/initramfs-linux.img'
+  -> Early uncompressed CPIO image generation successful
+==> Initcpio image generation successful
+[1;33m!![1;0m nvidia-drm.modeset=1 added to /etc/default/grub
+blacklist nouveau
+install nouveau /bin/true

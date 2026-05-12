@@ -27,7 +27,7 @@
 </p>
 <pre>
 git clone https://github.com/xscriptor/dothunter.git
-cd dothunter/hyprland/hyprconf-v2
+cd dothunter/hyprland/shell-ninja/hyprconf-v2
 </pre>
 
 <h2 align="center">Install</h2>

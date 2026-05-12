@@ -49,7 +49,6 @@ printf " \n \n"
 # Config directories to remove/backup
 DOTFILES=(
     btop
-    fastfetch
     fish
     gtk-3.0
     gtk-4.0

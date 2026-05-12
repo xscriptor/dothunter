@@ -1,0 +1,706 @@
+:: AUR helper /usr/bin/yay was located... Moving on
+
+[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │             __ __              __             __           │ 
+ │            / // /_ _____  ____/ /__ ____  ___/ /           │ 
+ │           / _  / // / _ \/ __/ / _ `/ _ \/ _  /            │ 
+ │          /_//_/\_, / .__/_/ /_/\_,_/_//_/\_,_/             │ 
+ │               /___/_/                                      │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+[ SKIP ] hyprland is already installed. Skipping...
+[ SKIP ] hyprlock is already installed. Skipping...
+[ SKIP ] hypridle is already installed. Skipping...
+[ SKIP ] hyprcursor is already installed. Skipping...
+
+
+[H[H                                            
+ ╭────────────────────────────────────────╮ 
+ │                                        │ 
+ │                                        │ 
+ │        ____  __  __                    │ 
+ │       / __ \/ /_/ /  ___ _______       │ 
+ │      / /_/ / __/ _ \/ -_) __(_-<       │ 
+ │      \____/\__/_//_/\__/_/ /___/       │ 
+ │                                        │ 
+ │                                        │ 
+ │                                        │ 
+ ╰────────────────────────────────────────╯ 
+                                            
+ 
+ 
+[ SKIP ] btop is already installed. Skipping...
+[ SKIP ] cliphist is already installed. Skipping...
+[ SKIP ] curl is already installed. Skipping...
+[ SKIP ] fastfetch is already installed. Skipping...
+[ SKIP ] ffmpeg is already installed. Skipping...
+[ SKIP ] hyprland-guiutils is already installed. Skipping...
+[ SKIP ] partitionmanager is already installed. Skipping...
+[ SKIP ] imagemagick is already installed. Skipping...
+[ SKIP ] jq is already installed. Skipping...
+[ SKIP ] konsole is already installed. Skipping...
+[ SKIP ] kitty is already installed. Skipping...
+[ SKIP ] kvantum is already installed. Skipping...
+[ SKIP ] kvantum-qt5 is already installed. Skipping...
+[ SKIP ] less is already installed. Skipping...
+[ SKIP ] lxappearance is already installed. Skipping...
+[ SKIP ] mpv-mpris is already installed. Skipping...
+[ SKIP ] network-manager-applet is already installed. Skipping...
+[ SKIP ] networkmanager is already installed. Skipping...
+[ SKIP ] neovim is already installed. Skipping...
+[ SKIP ] nodejs is already installed. Skipping...
+[ SKIP ] npm is already installed. Skipping...
+[ SKIP ] ntfs-3g is already installed. Skipping...
+[ SKIP ] nvtop is already installed. Skipping...
+[ SKIP ] nwg-look is already installed. Skipping...
+[ SKIP ] os-prober is already installed. Skipping...
+[ SKIP ] pacman-contrib is already installed. Skipping...
+[ SKIP ] pamixer is already installed. Skipping...
+[ SKIP ] pavucontrol is already installed. Skipping...
+[ SKIP ] parallel is already installed. Skipping...
+[ SKIP ] pciutils is already installed. Skipping...
+[ SKIP ] polkit-kde-agent is already installed. Skipping...
+[ SKIP ] power-profiles-daemon is already installed. Skipping...
+[ SKIP ] python-pywal is already installed. Skipping...
+[ SKIP ] python-gobject is already installed. Skipping...
+[ SKIP ] qt5ct is already installed. Skipping...
+[ SKIP ] qt5-svg is already installed. Skipping...
+[ SKIP ] qt6-svg is already installed. Skipping...
+[ SKIP ] qt5-graphicaleffects is already installed. Skipping...
+[ SKIP ] qt5-quickcontrols2 is already installed. Skipping...
+[ SKIP ] ripgrep is already installed. Skipping...
+[ SKIP ] rofi-wayland is already installed. Skipping...
+[ SKIP ] satty is already installed. Skipping...
+[ SKIP ] swaync is already installed. Skipping...
+[ SKIP ] awww is already installed. Skipping...
+[ SKIP ] unzip is already installed. Skipping...
+[ SKIP ] waybar is already installed. Skipping...
+[ SKIP ] wget is already installed. Skipping...
+[ SKIP ] wl-clipboard is already installed. Skipping...
+[ SKIP ] xorg-xrandr is already installed. Skipping...
+[ SKIP ] yazi is already installed. Skipping...
+[ SKIP ] zip is already installed. Skipping...
+[ SKIP ] cava is already installed. Skipping...
+[ SKIP ] grimblast-git is already installed. Skipping...
+[ SKIP ] hyprsunset is already installed. Skipping...
+[ SKIP ] tty-clock is already installed. Skipping...
+[ SKIP ] pyprland is already installed. Skipping...
+[ SKIP ] wlogout is already installed. Skipping...
+[ SKIP ] ark is already installed. Skipping...
+[ SKIP ] dolphin is already installed. Skipping...
+[ SKIP ] gwenview is already installed. Skipping...
+[ SKIP ] okular is already installed. Skipping...
+
+
+=> Installing qt6ct-kde...
+>< Ohh sheet! an error..
+   qt6ct-kde failed to install. Maybe therer is an issue...
+=> Installing crudini...
+:: crudini was installed successfully!
+
+=> Installing python-iniparse...
+:: python-iniparse was installed successfully!
+
+[H[H                                            
+ ╭────────────────────────────────────────╮ 
+ │                                        │ 
+ │                                        │ 
+ │           ____          __             │ 
+ │          / __/__  ___  / /____         │ 
+ │         / _// _ \/ _ \/ __(_-<         │ 
+ │        /_/  \___/_//_/\__/___/         │ 
+ │                                        │ 
+ │                                        │ 
+ ╰────────────────────────────────────────╯ 
+                                            
+ 
+ 
+[ SKIP ] ttf-font-awesome is already installed. Skipping...
+[ SKIP ] ttf-cascadia-code-nerd is already installed. Skipping...
+[ SKIP ] ttf-jetbrains-mono-nerd is already installed. Skipping...
+[ SKIP ] ttf-meslo-nerd is already installed. Skipping...
+[ SKIP ] noto-fonts is already installed. Skipping...
+[ SKIP ] noto-fonts-emoji is already installed. Skipping...
+
+
+[H[H                                            
+ ╭────────────────────────────────────────╮ 
+ │                                        │ 
+ │                                        │ 
+ │           _______  ___  __  ___        │ 
+ │          / __/ _ \/ _ \/  |/  /        │ 
+ │         _\ \/ // / // / /|_/ /         │ 
+ │       /___/____/____/_/  /_/           │ 
+ │                                        │ 
+ │                                        │ 
+ │                                        │ 
+ ╰────────────────────────────────────────╯ 
+                                            
+ 
+ 
+[ SKIP ] qt6-5compat is already installed. Skipping...
+[ SKIP ] qt6-declarative is already installed. Skipping...
+[ SKIP ] qt6-svg is already installed. Skipping...
+[ SKIP ] qt6-virtualkeyboard is already installed. Skipping...
+[ SKIP ] qt6-multimedia-ffmpeg is already installed. Skipping...
+[ SKIP ] sddm is already installed. Skipping...
+
+
+=> Activating sddm service...
+[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │        _______  ___  __  ___  ________                     │ 
+ │       / __/ _ \/ _ \/  |/  / /_  __/ /  ___ __ _  ___      │ 
+ │      _\ \/ // / // / /|_/ /   / / / _ \/ -_)  ; \/ -_)     │ 
+ │     /___/____/____/_/  /_/   /_/ /_//_/\__/_/_/_/\__/      │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+=> Clonning sddm theme...
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+  0      0   0      0   0      0      0      0                              0100  1.21M   0  1.21M   0      0 783.7k      0           00:01          1.21M100  9.60M   0  9.60M   0      0  4.02M      0           00:02          1.21M100  9.60M   0  9.60M   0      0  4.02M      0           00:02          1.21M100  9.60M   0  9.60M   0      0  4.02M      0           00:02          1.21M
+
+rmdir: fallo al borrar '/home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/SilentSDDM/SilentSDDM-main': El directorio no está vacío
+=> Setting up the Login Screen...
+mv: falló el movimiento entre distintos dispositivos: de '/home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/SilentSDDM' a '/usr/share/sddm/themes/SilentSDDM';
+no se puede borrar el objetivo: El directorio no está vacío
+mv: no se puede efectuar `stat' sobre '/usr/share/sddm/themes/SilentSDDM/fonts/*': No existe el fichero o el directorio
+:: Sddm theme was installed successfully!
+
+[H[H[ SKIP ] xdg-desktop-portal-hyprland is already installed. Skipping...
+[ SKIP ] xdg-desktop-portal-gtk is already installed. Skipping...
+
+
+
+!! Checking for other XDG-Desktop-Portal-Implementations...
+[H[H                                            
+ ╭────────────────────────────────────────╮ 
+ │                                        │ 
+ │                                        │ 
+ │          _  __     _    ___            │ 
+ │         / |/ /_ __(_)__/ (_)__ _       │ 
+ │        /    / |/ / / _  / / _ `/       │ 
+ │       /_/|_/|___/_/\_,_/_/\_,_/        │ 
+ │                                        │ 
+ │                                        │ 
+ │                                        │ 
+ ╰────────────────────────────────────────╯ 
+                                            
+ 
+ 
+[ SKIP ] nvidia-dkms is already installed. Skipping...
+[ SKIP ] nvidia-settings is already installed. Skipping...
+[ SKIP ] nvidia-utils is already installed. Skipping...
+[ SKIP ] libva is already installed. Skipping...
+
+
+=> Installing libva-nvidia-driver-git...
+>< Ohh sheet! an error..
+   libva-nvidia-driver-git failed to install. Maybe therer is an issue...
+=> Installing addition Nvidia packages...
+=> Installing linux-headers...
+:: linux-headers was installed successfully!
+
+=> Installing nvidia-dkms...
+:: nvidia-dkms was installed successfully!
+
+=> Installing nvidia-settings...
+:: nvidia-settings was installed successfully!
+
+=> Installing nvidia-utils...
+:: nvidia-utils was installed successfully!
+
+=> Installing libva...
+:: libva was installed successfully!
+
+=> Installing libva-nvidia-driver-git...
+>< Ohh sheet! an error..
+   libva-nvidia-driver-git failed to install. Maybe therer is an issue...
+!! Nvidia modules already included in /etc/mkinitcpio.conf
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+==> Using default configuration file: '/etc/mkinitcpio.conf'
+  -> -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
+==> Starting build: '7.0.5-arch1-1'
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [microcode]
+  -> Running build hook: [modconf]
+  -> Running build hook: [kms]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [keymap]
+  -> Running build hook: [consolefont]
+  -> Running build hook: [block]
+  -> Running build hook: [filesystems]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: '/boot/initramfs-linux.img'
+  -> Early uncompressed CPIO image generation successful
+==> Initcpio image generation successful
+
+
+
+:: Seems like nvidia-drm modeset=1 is already added in your system..moving on.
+
+sudo: grub-mkconfig: command not found
+!! nvidia-drm.modeset=1 added to /etc/default/grub
+[?25l[?2004h Would you like to blacklist nouveau?    
+                                         
+    Yes!        No!                      
+                                         
+←→ toggle • enter submit • y Yes! • n No![D[4A [D[?2004l[?25h[?1002l[?1003l[?1006l
+blacklist nouveau
+:: Has been added to /etc/modprobe.d/nouveau.conf
+
+install nouveau /bin/true
+[H[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │                       ____  ______ __                      │ 
+ │                      /_  / / __/ // /                      │ 
+ │                       / /__\ \/ _  /                       │ 
+ │                      /___/___/_//_/                        │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100   2947 100   2947   0      0   7214      0                              0100   2947 100   2947   0      0   7212      0                              0100   2947 100   2947   0      0   7209      0                              0
+** Starting the script...
+:: Git was installed..
+
+** Cloning the installation repository...
+
+** Cloning the scripts...
+[H=> Log file created at: /home/xscriptor/.cache/Zsh/zsh-install-10:26_p. m..log
+=> Detecting Operating System...
+:: Detected: arch
+
+=> Installing packages: bat curl eza fastfetch figlet fzf git rsync starship zoxide zsh...
+advertencia: bat-0.26.1-2 está actualizado -- omitiéndolo
+advertencia: curl-8.20.0-6 está actualizado -- omitiéndolo
+advertencia: eza-0.23.4-3 está actualizado -- omitiéndolo
+advertencia: fastfetch-2.62.1-1 está actualizado -- omitiéndolo
+advertencia: fzf-0.72.0-1 está actualizado -- omitiéndolo
+advertencia: git-2.54.0-1 está actualizado -- omitiéndolo
+advertencia: zsh-5.9-6 está actualizado -- omitiéndolo
+resolviendo dependencias...
+buscando conflictos entre paquetes...
+
+Paquetes (4) figlet-2.2.5-6  rsync-3.4.2-1  starship-1.25.1-1  zoxide-0.9.9-2
+
+Tamaño total de la descarga:      4,45 MiB
+Tamaño total de la instalación:  13,64 MiB
+
+:: ¿Continuar con la instalación? [S/n] 
+:: Obteniendo los paquetes...
+ descargando starship-1.25.1-1-x86_64...
+ descargando zoxide-0.9.9-2-x86_64...
+ descargando rsync-3.4.2-1-x86_64...
+ descargando figlet-2.2.5-6-x86_64...
+comprobando el depósito de claves...
+verificando la integridad de los paquetes...
+cargando los archivos de los paquetes...
+comprobando conflictos entre archivos...
+comprobando el espacio disponible en el disco...
+:: Procesando los cambios de los paquetes...
+instalando figlet...
+instalando rsync...
+Dependencias opcionales para rsync
+    python: for rrsync [instalado]
+instalando starship...
+Dependencias opcionales para starship
+    ttf-font-nerd: Nerd Font Symbols preset [instalado]
+instalando zoxide...
+Dependencias opcionales para zoxide
+    fzf: for interactive selection [instalado]
+:: Ejecutando los «hooks» de posinstalación...
+(1/2) Reloading system manager configuration...
+(2/2) Arming ConditionNeedsUpdate...
+:: Package installation phase completed.
+
+=> Installing packages: thefuck...
+resolviendo dependencias...
+buscando conflictos entre paquetes...
+
+Paquetes (5) python-colorama-0.4.6-6  python-decorator-5.2.1-2  python-pyte-0.8.2-5  python-wcwidth-0.7.0-1  thefuck-3.32-12
+
+Tamaño total de la descarga:     0,44 MiB
+Tamaño total de la instalación:  2,28 MiB
+
+:: ¿Continuar con la instalación? [S/n] 
+:: Obteniendo los paquetes...
+ descargando thefuck-3.32-12-any...
+ descargando python-wcwidth-0.7.0-1-any...
+ descargando python-pyte-0.8.2-5-any...
+ descargando python-colorama-0.4.6-6-any...
+ descargando python-decorator-5.2.1-2-any...
+comprobando el depósito de claves...
+verificando la integridad de los paquetes...
+cargando los archivos de los paquetes...
+comprobando conflictos entre archivos...
+comprobando el espacio disponible en el disco...
+:: Procesando los cambios de los paquetes...
+instalando python-colorama...
+instalando python-decorator...
+instalando python-wcwidth...
+instalando python-pyte...
+instalando thefuck...
+:: Ejecutando los «hooks» de posinstalación...
+(1/1) Arming ConditionNeedsUpdate...
+:: Package installation phase completed.
+
+[ SKIP ] zsh is already the default shell.
+=> Proceeding to configure ZSH environment...
+!! Found existing .zshrc, backing it up to /home/xscriptor/.zsh-Backup-xscriptor
+=> Copying new configurations...
+:: Installation and configuration of ZSH finished!
+
+[H[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │             __  __     _          __       ____            │ 
+ │            / / / /__  (_)__  ___ / /____ _/ / /            │ 
+ │           / /_/ / _ \/ / _ \(_-</ __/ _ `/ / /             │ 
+ │          \____/_//_/_/_//_/___/\__/\_,_/_/_/               │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+!! wofi was found. It will be removed.
+>< Ohh sheet! an error..
+   Could not remove wofi...
+[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │                  ________                                  │ 
+ │                 /_  __/ /  ___ __ _  ___                   │ 
+ │                  / / / _ \/ -_)  ; \/ -_)                  │ 
+ │                 /_/ /_//_/\__/_/_/_/\__/                   │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+ 
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+  0      0   0      0   0      0      0      0                              0100 420.7k   0 420.7k   0      0 254.2k      0           00:01         402.5k100  1.06M   0  1.06M   0      0 394.1k      0           00:02         506.1k100  1.67M   0  1.67M   0      0 446.3k      0           00:03         530.2k100  2.28M   0  2.28M   0      0 469.7k      0           00:04         535.3k100  2.81M   0  2.81M   0      0 476.4k      0           00:06         529.7k100  3.52M   0  3.52M   0      0 505.1k      0           00:07         580.6k100  4.14M   0  4.14M   0      0 513.9k      0           00:08         573.8k100  4.79M   0  4.79M   0      0 524.7k      0           00:09         579.6k100  5.44M   0  5.44M   0      0 532.9k      0           00:10         590.4k100  6.03M   0  6.03M   0      0 535.0k      0           00:11         599.5k100  6.65M   0  6.65M   0      0 538.7k      0           00:12         582.5k100  7.32M   0  7.32M   0      0 545.2k      0           00:13         592.3k100  7.93M   0  7.93M   0      0 546.9k      0           00:14         584.7k100  8.60M   0  8.60M   0      0 552.1k      0           00:15         588.7k100  9.19M   0  9.19M   0      0 551.9k      0           00:17         587.6k100  9.88M   0  9.88M   0      0 557.3k      0           00:18         600.1k100 10.53M   0 10.53M   0      0 560.0k      0           00:19         596.8k100 11.06M   0 11.06M   0      0 556.4k      0           00:20         582.2k100 11.75M   0 11.75M   0      0 560.0k      0           00:21         582.6k100 12.37M   0 12.37M   0      0 561.7k      0           00:22         592.0k100 13.12M   0 13.12M   0      0 568.0k      0           00:23         603.0k100 13.69M   0 13.69M   0      0 566.7k      0           00:24         590.2k100 14.23M   0 14.23M   0      0 563.7k      0           00:25         590.9k100 14.79M   0 14.79M   0      0 562.2k      0           00:26         570.9k100 15.49M   0 15.49M   0      0 565.4k      0           00:28         580.3k100 16.05M   0 16.05M   0      0 563.9k      0           00:29         546.3k100 16.66M   0 16.66M   0      0 563.9k      0           00:30         551.5k100 17.28M   0 17.28M   0      0 564.6k      0           00:31         568.6k100 17.89M   0 17.89M   0      0 564.7k      0           00:32         576.7k100 18.60M   0 18.60M   0      0 567.9k      0           00:33         580.5k100 19.30M   0 19.30M   0      0 571.8k      0           00:34         614.7k100 20.40M   0 20.40M   0      0 586.8k      0           00:35         716.2k100 21.82M   0 21.82M   0      0 610.0k      0           00:36         880.3k100 23.55M   0 23.55M   0      0 641.0k      0           00:37          1.09M100 25.52M   0 25.52M   0      0 676.6k      0           00:38          1.36M100 27.83M   0 27.83M   0      0 718.6k      0           00:39          1.67M100 30.18M   0 30.18M   0      0 759.5k      0           00:40          1.92M100 32.96M   0 32.96M   0      0 808.8k      0           00:41          2.18M100 36.05M   0 36.05M   0      0 863.4k      0           00:42          2.43M100 38.70M   0 38.70M   0      0 905.2k      0           00:43          2.55M100 41.71M   0 41.71M   0      0 953.4k      0           00:44          2.70M100 44.77M   0 44.77M   0      0  0.97M      0           00:45          2.83M100 48.08M   0 48.08M   0      0  1.02M      0           00:46          2.93M100 51.63M   0 51.63M   0      0  1.07M      0           00:47          3.03M100 55.49M   0 55.49M   0      0  1.13M      0           00:48          3.28M100 59.51M   0 59.51M   0      0  1.19M      0           00:49          3.47M100 63.49M   0 63.49M   0      0  1.24M      0           00:50          3.68M100 65.52M   0 65.52M   0      0  1.27M      0           00:51          3.68M100 65.52M   0 65.52M   0      0  1.27M      0           00:51          3.68M100 65.52M   0 65.52M   0      0  1.27M      0           00:51          3.68M
+
+
+
+Extracting icons...
+#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:8=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the12.512% 1:7=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2525% 2:6=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   3 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=3s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   5 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=5s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   5 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=5s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   7 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=7s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   7 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=7s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   7 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=7s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   8 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the37.537% 3:5=8s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   6 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the5050% 4:4=6s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the62.562% 5:3=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the62.562% 5:3=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   4 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the62.562% 5:3=4s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   2 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the7575% 6:2=2s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   1 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the87.587% 7:1=1s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the100100% 8:0=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/t#   9.75800013542175 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-ins100100% 8:0=9s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/t
+
+Extracting themes...
+#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the00% 0:5=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2020% 1:4=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2020% 1:4=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the2020% 1:4=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the4040% 2:3=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the6060% 3:2=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the8080% 4:1=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/th#   0 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/the100100% 5:0=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/t#   0.177000045776367 sec /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-in100100% 5:0=0s /home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/t
+[H[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │                  ___       __  ____ __                     │ 
+ │                 / _ \___  / /_/ _(_) /__ ___               │ 
+ │                / // / _ \/ __/ _/ / / -_|_-<               │ 
+ │               /____/\___/\__/_//_/_/\__/___/               │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0                              0
+  0      0   0      0   0      0      0      0                              0100  9.26M   0  9.26M   0      0  6.31M      0           00:01          9.24M100 25.51M   0 25.51M   0      0 10.34M      0           00:02         12.75M100 40.03M   0 40.03M   0      0 11.46M      0           00:03         13.23M100 53.33M   0 53.33M   0      0 11.84M      0           00:04         13.21M100 65.33M   0 65.33M   0      0 11.87M      0           00:05         12.97M100 77.71M   0 77.71M   0      0 11.94M      0           00:06         13.57M100 90.93M   0 90.93M   0      0 12.11M      0           00:07         12.97M100 102.3M   0 102.3M   0      0 11.99M      0           00:08         12.35M100 113.8M   0 113.8M   0      0 11.93M      0           00:09         12.02M100 125.4M   0 125.4M   0      0 11.89M      0           00:10         11.90M100 137.9M   0 137.9M   0      0 11.94M      0           00:11         11.94M100 137.9M   0 137.9M   0      0 11.94M      0           00:11         11.94M100 137.9M   0 137.9M   0      0 11.94M      0           00:11         11.94M100 137.9M   0 137.9M   0      0 11.94M      0           00:11         11.94M
+rmdir: fallo al borrar el directorio '/home/xscriptor/dothunter/hyprland/shell-ninja/hyprconf-install/.cache/hyprconf-v2': El directorio no está vacío
+[H                                                                                                        
+ ╭────────────────────────────────────────────────────────────────────────────────────────────────────╮ 
+ │                                                                                                    │ 
+ │                                                                                                    │ 
+ │                  X   __  __                                  ____    _    _____                    │ 
+ │                     / / / /_  ______  ______________  ____  / __/   | |  / /__ \                   │ 
+ │                    / /_/ / / / / __ \/ ___/ ___/ __ \/ __ \/ /______| | / /__/ /                   │ 
+ │                   / __  / /_/ / /_/ / /  / /__/ /_/ / / / / __/_____/ |/ // __/                    │ 
+ │                  /_/ /_/\__, / .___/_/   \___/\____/_/ /_/_/        |___//____/                    │ 
+ │                        /____/_/                                                                    │ 
+ │                                                                                                    │ 
+ │                                                                                                    │ 
+ ╰────────────────────────────────────────────────────────────────────────────────────────────────────╯ 
+                                                                                                        
+ 
+ 
+:: Everything is fine. Proceeding to the next step
+
+:: Everything is fine. Proceeding to the next step
+
+[H=> Now setting up the pre installed Hyprland configuration...sleep
+pcilib: Error reading /sys/bus/pci/devices/0000:00:08.3/label: Operation not permitted
+=> Nvidia GPU detected. Setting up proper env's
+=> Installing xfetch...
+ Installing xfetch... 
+ Cloning repository... 
+Clonando en '/tmp/tmp.eZeJA1Y7VP/xfetch'...
+ Building xfetch... 
+   Compiling proc-macro2 v1.0.104
+   Compiling unicode-ident v1.0.22
+   Compiling quote v1.0.42
+   Compiling libc v0.2.179
+   Compiling cfg-if v1.0.4
+   Compiling autocfg v1.5.0
+   Compiling crossbeam-utils v0.8.21
+   Compiling memchr v2.7.6
+   Compiling rayon-core v1.13.0
+   Compiling simd-adler32 v0.3.8
+   Compiling log v0.4.29
+   Compiling anyhow v1.0.100
+   Compiling either v1.15.0
+   Compiling thiserror v2.0.17
+   Compiling adler2 v2.0.1
+   Compiling zerocopy v0.8.31
+   Compiling arrayvec v0.7.6
+   Compiling stable_deref_trait v1.2.1
+   Compiling crc32fast v1.5.0
+   Compiling miniz_oxide v0.8.9
+   Compiling as-slice v0.2.1
+   Compiling bitflags v2.10.0
+   Compiling av-scenechange v0.14.1
+   Compiling bytemuck v1.24.0
+   Compiling built v0.8.0
+   Compiling smallvec v1.15.1
+   Compiling paste v1.0.15
+   Compiling aligned v0.4.3
+   Compiling signal-hook v0.3.18
+   Compiling pastey v0.1.1
+   Compiling num-traits v0.2.19
+   Compiling parking_lot_core v0.9.12
+   Compiling y4m v0.8.0
+   Compiling quick-error v2.0.1
+   Compiling unicode-segmentation v1.12.0
+   Compiling rustix v1.1.3
+   Compiling rgb v0.8.52
+   Compiling itertools v0.14.0
+   Compiling nom v8.0.0
+   Compiling core2 v0.4.0
+   Compiling flate2 v1.1.5
+   Compiling crossbeam-epoch v0.9.18
+   Compiling rav1e v0.8.1
+   Compiling convert_case v0.10.0
+   Compiling bitstream-io v4.9.0
+   Compiling scopeguard v1.2.0
+   Compiling new_debug_unreachable v1.0.6
+   Compiling weezl v0.1.12
+   Compiling imgref v1.12.0
+   Compiling syn v2.0.113
+   Compiling crossbeam-deque v0.8.6
+   Compiling simd_helpers v0.1.0
+   Compiling utf8parse v0.2.2
+   Compiling noop_proc_macro v0.3.0
+   Compiling linux-raw-sys v0.11.0
+   Compiling getrandom v0.3.4
+   Compiling zune-core v0.4.12
+   Compiling serde_core v1.0.228
+   Compiling num-integer v0.1.46
+   Compiling pxfm v0.1.27
+   Compiling zune-jpeg v0.4.21
+   Compiling anstyle-parse v0.2.7
+   Compiling errno v0.3.14
+   Compiling mio v1.1.1
+   Compiling loop9 v0.1.5
+   Compiling signal-hook-registry v1.4.8
+   Compiling lock_api v0.4.14
+   Compiling avif-serialize v0.8.6
+   Compiling fdeflate v0.3.7
+   Compiling num-bigint v0.4.6
+   Compiling rayon v1.11.0
+   Compiling zune-inflate v0.2.54
+   Compiling bit_field v0.10.3
+   Compiling zmij v1.0.10
+   Compiling anstyle-query v1.1.5
+   Compiling anstyle v1.0.13
+   Compiling byteorder-lite v0.1.0
+   Compiling is_terminal_polyfill v1.70.2
+   Compiling colorchoice v1.0.4
+   Compiling zune-core v0.5.0
+   Compiling litrs v1.0.0
+   Compiling once_cell v1.21.3
+   Compiling color_quant v1.1.0
+   Compiling lebe v0.5.3
+   Compiling image-webp v0.2.4
+   Compiling zune-jpeg v0.5.8
+   Compiling gif v0.14.1
+   Compiling anstream v0.6.21
+   Compiling signal-hook-mio v0.2.5
+   Compiling png v0.18.0
+   Compiling parking_lot v0.12.5
+   Compiling document-features v0.2.12
+   Compiling qoi v0.4.1
+   Compiling num-rational v0.4.2
+   Compiling clap_lex v0.7.6
+   Compiling strsim v0.11.1
+   Compiling serde v1.0.228
+   Compiling option-ext v0.2.0
+   Compiling fastrand v2.3.0
+   Compiling heck v0.5.0
+   Compiling unicode-width v0.2.2
+   Compiling serde_json v1.0.148
+   Compiling dirs-sys v0.5.0
+   Compiling clap_builder v4.5.54
+   Compiling console v0.16.2
+   Compiling tempfile v3.24.0
+   Compiling moxcms v0.7.11
+   Compiling maybe-rayon v0.1.1
+   Compiling ansi_colours v1.2.3
+   Compiling itoa v1.0.17
+   Compiling termcolor v1.4.1
+   Compiling base64 v0.22.1
+   Compiling dirs v6.0.0
+   Compiling sysinfo v0.37.2
+   Compiling json_comments v0.2.2
+   Compiling equator-macro v0.4.2
+   Compiling thiserror-impl v2.0.17
+   Compiling zerocopy-derive v0.8.31
+   Compiling arg_enum_proc_macro v0.3.4
+   Compiling profiling-procmacros v1.0.17
+   Compiling num-derive v0.4.2
+   Compiling fax_derive v0.2.0
+   Compiling derive_more-impl v2.1.1
+   Compiling profiling v1.0.17
+   Compiling clap_derive v4.5.49
+   Compiling serde_derive v1.0.228
+   Compiling equator v0.4.2
+   Compiling fax v0.2.6
+   Compiling aligned-vec v0.6.4
+   Compiling derive_more v2.1.1
+   Compiling v_frame v0.3.9
+   Compiling crossterm v0.29.0
+   Compiling av1-grain v0.2.5
+   Compiling clap v4.5.54
+   Compiling half v2.7.1
+   Compiling tiff v0.10.3
+   Compiling exr v1.74.0
+   Compiling ravif v0.12.0
+   Compiling image v0.25.9
+   Compiling viuer v0.11.0
+   Compiling xfetch v0.1.1 (/tmp/tmp.eZeJA1Y7VP/xfetch)
+    Finished `release` profile [optimized] target(s) in 29.23s
+ Installing binary to /home/xscriptor/.local/bin... 
+ Setting up default config... 
+ Configuring shell environment... 
+ Path already configured in /home/xscriptor/.bashrc 
+ Adding xfetch to PATH in /home/xscriptor/.zshrc 
+ XDG_CONFIG_HOME already configured in /home/xscriptor/.bashrc 
+ Adding XDG_CONFIG_HOME to /home/xscriptor/.zshrc 
+ Installation complete! 
+You may need to restart your terminal or run 'source ~/.bashrc' (or ~/.zshrc) to use xfetch.
+:: All the necessary scripts have been executable...
+
+=> Installing some fonts...
+=> Updating font cache...
+!! /usr/share/wayland-sessions found...
+Source contains parsing errors: '<???>'
+	[line 65]: '[Colors:Header][Inactive]\n'
+:: Script execution was successful! Now logout and log back in and enjoy your hyprland...
+
+:: Dotfiles setup was successful...
+
+[H[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │              ____            __   __                       │ 
+ │             / __ \___  _____/ /__/ /_____  ____            │ 
+ │            / / / / _ \/ ___/ //_/ __/ __ \/ __ \           │ 
+ │           / /_/ /  __(__  ) ,< / /_/ /_/ / /_/ /           │ 
+ │          /_____/\___/____/_/|_|\__/\____/ .___/            │ 
+ │                                        /_/                 │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+!! This system is a Desktop.
+=> Proceeding with some configuration...
+=> Installing ddcutil...
+:: ddcutil was installed successfully!
+
+[H=> Enabling i2c-dev kernel module...
+i2c-dev
+=> Adding user 'xscriptor' to i2c group...
+!! Checking for /dev/i2c-* devices...
+:: /dev/i2c devices detected.
+
+=> Detecting DDC/CI capable monitors...
+Invalid display
+   I2C bus:  /dev/i2c-6
+   DRM_connector:           card1-eDP-1
+   EDID synopsis:
+      Mfg id:               AUO - AU Optronics
+      Model:                B156HAN15.H
+      Product code:         53922  (0xd2a2)
+      Serial number:        
+      Binary serial number: 0 (0x00000000)
+      Manufacture year:     2022,  Week: 1
+   This is a laptop display.  Laptop displays do not support DDC/CI.
+
+
+:: Setup complete.
+
+[H[H                                                                
+ ╭────────────────────────────────────────────────────────────╮ 
+ │                                                            │ 
+ │                                                            │ 
+ │                     ____ _             __                  │ 
+ │                    / __/(_)___  ___ _ / /                  │ 
+ │                   / _/ / // _ \/ _ `// /                   │ 
+ │                  /_/  /_//_//_/\_,_//_/                    │ 
+ │                                                            │ 
+ │                                                            │ 
+ │                                                            │ 
+ ╰────────────────────────────────────────────────────────────╯ 
+                                                                
+ 
+ 
+
+
+=> Somehow hyprland-qtutils could not be installed before. Installing it now...
+>< Ohh sheet! an error..
+   Sorry, this time also could not install hyprland-qtutils..
+
+=> Somehow qt6ct-kde could not be installed before. Installing it now...
+>< Ohh sheet! an error..
+   Sorry, this time also could not install qt6ct-kde..
+
+[H

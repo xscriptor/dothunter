@@ -23,6 +23,8 @@ printf "${cyan}**${end} Pre install script...\n   Need to install some packages 
 packages=(
     git
     gum
+    curl
+    unzip
 )
 
 for pkg in "${packages[@]}"; do
@@ -66,14 +68,16 @@ fi
 # only for fedora
 if command -v dnf &> /dev/null; then
 
-    if rpm -q git &> /dev/null; then
-        printf "${magenta}[ Skip ]${end} Skipping git, it's already installed...\n"
-    else
-        printf "${green}=>${end} Installing git...\n"
-        if sudo dnf install -y git; then
-            printf "${cyan}::${end} Successfully installed ${cyan}git${end}...\n"
+    for _pkg in git curl unzip; do
+        if rpm -q "$_pkg" &> /dev/null; then
+            printf "${magenta}[ Skip ]${end} Skipping $_pkg, it's already installed...\n"
+        else
+            printf "${green}=>${end} Installing $_pkg...\n"
+            if sudo dnf install -y "$_pkg"; then
+                printf "${cyan}::${end} Successfully installed ${cyan}$_pkg${end}...\n"
+            fi
         fi
-    fi
+    done
 
     sleep 1
 

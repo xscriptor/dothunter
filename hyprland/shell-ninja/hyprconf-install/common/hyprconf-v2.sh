@@ -58,8 +58,25 @@ curl -L "$url" -o "$zip_path"
 # Extract only if download succeeded
 if [[ -f "$zip_path" ]]; then
   mkdir -p "$target_dir"
-  unzip "$zip_path" "dothunter-main/hyprland/shell-ninja/hyprconf-v2/*" -d "$target_dir" > /dev/null
-  mv "$target_dir/dothunter-main/hyprland/shell-ninja/hyprconf-v2/"* "$target_dir" && rmdir -p "$target_dir/dothunter-main/hyprland/shell-ninja/hyprconf-v2"
+  extract_paths=(
+    "dothunter-main/hyprland/shell-ninja/hyprconf-v2/*"
+  )
+
+  extracted_root=""
+  for pattern in "${extract_paths[@]}"; do
+    if unzip -qq "$zip_path" "$pattern" -d "$target_dir" 2>/dev/null; then
+      extracted_root="${pattern%/*}"
+      break
+    fi
+  done
+
+  if [[ -z "$extracted_root" ]]; then
+    msg err "Could not extract hyprconf-v2 from the archive."
+    rm -f "$zip_path"
+    exit 1
+  fi
+
+  mv "$target_dir/$extracted_root/"* "$target_dir" && rmdir -p "$target_dir/$extracted_root"
   rm "$zip_path"
 fi
 # ---------------------- new ---------------------- #
@@ -78,6 +95,11 @@ sleep 1
 # if repo clonned successfully, then setting up the config
 if [[ -d "$parent_dir/.cache/hyprconf-v2" ]]; then
   cd "$parent_dir/.cache/hyprconf-v2" || { msg err "Could not changed directory to $parent_dir/.cache/hyprconf-v2" 2>&1 | tee -a >(sed 's/\x1B\[[0-9;]*[JKmsu]//g' >> "$log"); exit 1; }
+
+  if [[ ! -f "hyprconf-v2.sh" ]]; then
+    msg err "hyprconf-v2.sh was not found after extraction."
+    exit 1
+  fi
 
   chmod +x hyprconf-v2.sh
   

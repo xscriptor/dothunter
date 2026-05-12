@@ -239,7 +239,7 @@ sleep 1
 
 mkdir -p "$HOME/.config"
 for item in "$dir/config"/*; do
-    if [[ "$(basename "$item")" == "fish" || "$(basename "$item")" == "fastfetch" ]]; then
+    if [[ "$(basename "$item")" == "fish" ]]; then
         continue
     fi
     cp -r "$item" "$HOME/.config/"

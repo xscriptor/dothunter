@@ -65,7 +65,6 @@ fi
 
 main_packages=(
     curl
-    fastfetch
     ffmpeg-free
     git
     grim

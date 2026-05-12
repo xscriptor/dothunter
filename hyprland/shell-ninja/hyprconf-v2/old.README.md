@@ -141,11 +141,9 @@ This Hyprland configuration version is not for Dynamic Color Changing. It's a Th
 > A <i>style</i> dir holding all the <b>css</b> files.
 > A <i>moduled</i> dir for all the modules.
 >
-> ### Fastfetch
+> ### Xfetch
 >
-> Fastfetch config files will be stored in your `~/.local/share/fastfetch` directory.
-> Visit there and change the presets according to your need.
-> If you haven't choose from the shells while running the installation script, just add these lines in your <b>`.bashrc, .zshrc or config.fish`</b> configs. <br><b> `fastfetch --config hypr` </b><br> <b>hypr</b> is the preset name. You will find presets inside your `~/.local/share/fastfetch/presets` directory
+> Xfetch is installed by the setup script and added to your shell rc automatically.
 
 <br>
 

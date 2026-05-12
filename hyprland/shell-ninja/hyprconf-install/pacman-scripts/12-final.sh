@@ -61,7 +61,6 @@ checkup=(
     cliphist
     curl
     # dunst
-    fastfetch
     ffmpeg
     grimblast-git
     partitionmanager

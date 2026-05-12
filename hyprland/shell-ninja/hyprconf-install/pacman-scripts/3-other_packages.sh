@@ -73,7 +73,6 @@ other_packages=(
     curl
     # dunst
     # eog
-    fastfetch
     ffmpeg
     # gnome-disk-utility
     hyprland-guiutils
