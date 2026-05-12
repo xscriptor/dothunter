@@ -7,7 +7,6 @@
  + W | change wallpaper (Wallpaper.sh)
  + T | change theme
  + SHIFT + W | select wallpaper (WallpaperSelect.sh)
- + ALT + E | switch wallpaper engine (awww/hyprpaper)
  + E | open file manager (Dolphin)
  + SHIFT + E | open terminal file manager (Yazi)
  + V | toggle floating window
@@ -28,7 +27,6 @@ CTRL + ALT + ESCAPE | toggle Waybar visibility
  + SHIFT + L | lockscreen (hyprlock)
  + ALT + L | lockscreen theme (hyprlock)
  + CTRL + W | switch Waybar layout
- + CTRL + E | edit dotfiles
  + CTRL + R | reload Hyprland
 CTRL + U | system update
  + CTRL + U | updated hyprconf
@@ -50,8 +48,8 @@ F11 | increase volume
  + F1 | decrease nightlight
  + F2 | increase nightlight
  + F3 | reset nightlight
-F3 | increase brightness
-F2 | decrease brightness
+F4 | increase brightness
+F3 | decrease brightness
  + J | move focus down
  + K | move focus up
  + L | move focus right

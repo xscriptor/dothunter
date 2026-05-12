@@ -332,6 +332,11 @@ fi
 
 theme="$(cat "$themeFile")"
 
+if [[ ! -f "$HOME/.config/hypr/confs/themes/${theme}.conf" ]]; then
+    theme="Catppuccin"
+    echo "$theme" > "$themeFile"
+fi
+
 "$HOME/.config/hypr/scripts/Wallpaper.sh" &> /dev/null
 
 # Function to safely symlink
