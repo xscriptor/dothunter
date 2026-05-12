@@ -225,9 +225,9 @@ fi
 # uncommenting WLR_NO_HARDWARE_CURSORS if nvidia is detected
 if lspci -k | grep -A 2 -E "(VGA|3D)" | grep -iq nvidia; then
   msg act "Nvidia GPU detected. Setting up proper env's" 2>&1 | tee -a >(sed 's/\x1B\[[0-9;]*[JKmsu]//g' >> "$log") || true
-  sed -i '/env = WLR_NO_HARDWARE_CURSORS,1/s/^#//' config/hypr/configs/environment.conf
-  sed -i '/env = LIBVA_DRIVER_NAME,nvidia/s/^#//' config/hypr/configs/environment.conf
-  sed -i '/env = __GLX_VENDOR_LIBRARY_NAME,nvidia/s/^# //' config/hypr/configs/environment.conf
+    sed -i '/env = WLR_NO_HARDWARE_CURSORS,1/s/^#//' "$dir/config/hypr/confs/env.conf"
+    sed -i '/env = LIBVA_DRIVER_NAME,nvidia/s/^#//' "$dir/config/hypr/confs/env.conf"
+    sed -i '/env = __GLX_VENDOR_LIBRARY_NAME,nvidia/s/^# //' "$dir/config/hypr/confs/env.conf"
 fi
 
 sleep 1
